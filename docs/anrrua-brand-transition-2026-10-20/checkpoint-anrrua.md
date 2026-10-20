@@ -53,58 +53,45 @@ Dirección visual:
 **Audiencias:** propietarios con terrenos/espacios rurales y viajeros con camper, motorhome o casa rodante.  
 **Área piloto:** Villarrica, Pucón y alrededores, con expansión al sur sujeta a validación.
 
-### Mensajes
+Mensajes:
 - Viajero: “Ayúdanos a construir una red de lugares donde viajar con información clara.”
 - Anfitrión: “¿Tienes un espacio con potencial para recibir viajeros? Conversemos.”
 - Marca: “Ánrrua conecta viajeros, anfitriones y territorios.”
 
-### Canales de primera etapa
-- Publicaciones orgánicas de JoinHook/Ánrrua y perfiles personales, sin campaña pagada inicialmente.
-- Grupos y comunidades de casas rodantes/campers solo respetando reglas de publicación.
-- Contacto directo con propietarios y negocios rurales; no publicar ubicación/fotos sin autorización.
-- Videos cortos con persona real, subtítulos y CTA separados para viajeros y anfitriones.
-- Red de aliados locales y recomendaciones.
+Canales: publicaciones orgánicas, comunidades de viajeros, contacto directo con propietarios, videos cortos, aliados locales y recomendaciones. No hacer publicidad pagada antes de validar demanda. Medir leads válidos, entrevistas, autorizaciones de publicación, fichas útiles, horas/costo por contacto y disposición real a pagar.
 
-### Indicadores de aprendizaje
-- Formularios completos y consentimiento explícito.
-- Leads por segmento y comuna.
-- Tasa de respuesta, entrevistas realizadas y problemas recurrentes.
-- Propietarios que aceptan visita/diagnóstico y autorizan publicación.
-- Fichas de destinos con información mínima y evidencia suficiente.
-- Coste/horas por lead, reunión y ficha.
-- Consultas y estancias solo cuando ocurran de verdad.
+## 7. Formularios y privacidad
+Para leads identificables, no depender solo de formularios Canva: Canva indica que las respuestas de formularios insertos en sitios web de Canva son anónimas. Conectar botones a Microsoft Forms u otra herramienta que admita identificación y consentimiento, y probar las respuestas antes de difundir.
 
-No usar seguidores/likes como única prueba de demanda. No prometer reservas, disponibilidad, certificación oficial ni seguridad absoluta.
+Consentimiento sugerido, sujeto a revisión: “Acepto que Ánrrua/JoinHook use estos datos para responder a mi solicitud y enviarme información relacionada con esta iniciativa. Puedo solicitar dejar de recibir comunicaciones.” Casilla desmarcada por defecto. No pedir RUT ni dirección exacta del terreno en la captación inicial.
 
-## 7. Formulario y datos
-Para un registro identificable, no depender de un formulario de Canva Website sin revisar sus limitaciones: Canva indica que las respuestas de formularios dentro de sitios web son anónimas. Diseñar CTAs para formularios externos de Microsoft Forms u otra herramienta que permita recoger los datos necesarios y gestionar el consentimiento, y enlazarlos al sitio después de crearlos y probarlos.
+## 8. INAPI y NIC Chile
+- **INAPI:** la comprobación de disponibilidad está pendiente. Revisar “Ánrrua”, “Anrrua” y semejanzas fonéticas/visuales en las clases adecuadas.
+- **NIC Chile:** la consulta WHOIS efectiva está pendiente para `anrrua.cl` y `ánrrua.cl` (IDN). La política .CL admite vocales acentuadas, aunque algunos clientes pueden mostrar la versión ACE.
+- No afirmar que la marca o el dominio están disponibles ni que una solicitud de marca fue presentada.
+- Fuentes oficiales: [Buscador INAPI](https://buscadormarcas.inapi.cl/), [WHOIS NIC Chile](https://www.nic.cl/whois/), [política IDN .CL](https://nic.cl/normativa/CL-sintaxis-IDN.html).
 
-Consentimiento sugerido, sujeto a revisión antes de publicación: “Acepto que Ánrrua/JoinHook use estos datos para responder a mi solicitud y enviarme información relacionada con esta iniciativa. Puedo solicitar dejar de recibir comunicaciones.” Casilla desmarcada por defecto. No recoger RUT ni dirección exacta del terreno en captación inicial.
+## 9. Diseños Canva creados
+Borradores editables, pendientes de revisión y publicación:
+- **Guía de identidad de marca:** [ver](https://www.canva.com/d/dARGUTKXZmm_R1P) · [editar](https://www.canva.com/d/c1pCjOI-Q6RHI4G)
+- **Sitio web Ánrrua:** [ver](https://www.canva.com/d/v_C-IV6FyE2sxAQ) · [editar](https://www.canva.com/d/W4qP_fIyFsxaa0q)
+- **Playbook de marketing y lanzamiento:** [ver](https://www.canva.com/d/55BTaCMhbiRNuwa) · [editar](https://www.canva.com/d/mhXWV459E9YmjES)
 
-## 8. Revisión de marca y dominio
-- **INAPI:** pendiente de consulta registral interactiva efectiva para “Ánrrua”, “Anrrua” y semejanzas fonéticas/visuales en clases pertinentes. Una búsqueda en internet que no encuentre resultados no demuestra disponibilidad.
-- **NIC Chile:** pendiente de consulta WHOIS efectiva para `anrrua.cl` y `ánrrua.cl` (IDN). NIC Chile admite la vocal acentuada á en .CL, pero las aplicaciones pueden mostrar la codificación ACE y la experiencia de correo/enlaces puede variar. Evaluar y, si conviene y está disponible, registrar la variante sin tilde como dominio principal; considerar la variante acentuada como defensiva.
-- No declarar el nombre disponible o registrable hasta verificar resultados oficiales y similitudes de marca. Los dominios con y sin tilde son nombres diferentes en la práctica técnica, sujetos a reglas IDN y disponibilidad propia.
-- Fuentes: INAPI https://buscadormarcas.inapi.cl/ ; NIC Chile WHOIS https://www.nic.cl/whois/ ; política IDN .CL https://nic.cl/normativa/CL-sintaxis-IDN.html
+El sitio web aún no está publicado; los botones/formularios no están conectados a los formularios reales. Un diseño visual no equivale a una web operativa.
 
-## 9. Hoja de ruta
-- **20–23 oct 2026:** cerrar dirección visual, preparar logo conceptual y guía de marca; consultar INAPI/NIC y conservar evidencia.
-- **24–27 oct:** construir landing Canva con CTA separados, textos y fichas de producto; formularios externos y aviso de privacidad como tareas separadas.
-- **28 oct–2 nov:** probar formulario de viajeros y propietarios, enlaces, visualización móvil y consentimiento; no publicar hasta probar los destinos y textos.
-- **3–16 nov:** entrevistas iniciales a ambos segmentos, contenidos orgánicos y clasificación de leads; registrar evidencia.
-- **17–30 nov:** revisar conversión, calidad de oferta, costes y disposición a pagar; decidir si lanzar piloto manual.
-- **Dic 2026:** decidir si el catálogo/MVP merece desarrollo, según evidencias reales.
+## 10. Hoja de ruta
+- **20–23 oct 2026:** validar dirección visual, confirmar insecto con foto, consultar INAPI/NIC.
+- **24–27 oct:** completar landing y conectar formularios externos/privacidad.
+- **28 oct–2 nov:** probar enlaces, captura de datos y lectura móvil antes de publicar.
+- **3–16 nov:** entrevistas con ambos públicos y contenido orgánico.
+- **17–30 nov:** revisar conversión, autorizaciones, costes y disposición a pagar.
+- **Diciembre:** decidir piloto manual o MVP según evidencia.
 
-## 10. Registro del trabajo y límites
-- **DECIDED:** el nombre comercial visible pasa de JoinRoam a Ánrrua.
-- **DESIGNED:** dirección visual, paleta, arquitectura de marca, estructura de landing, formularios y plan de marketing.
-- **IN PROGRESS:** creación de diseños Canva y resguardo documental en Notion/GitHub.
-- **TO VERIFY:** especie exacta del insecto, disponibilidad de marca en INAPI, disponibilidad de dominios en NIC, enlaces y funcionamiento de formularios.
-- **NOT IMPLEMENTED:** sitio web publicado, formularios conectados, dominio registrado, solicitud de marca presentada, reservas/pagos, nueva sociedad o cambios tributarios.
-
-## 11. Reglas de control
-- No modificar `main`, no hacer merge ni desplegar a producción sin aprobación explícita.
-- Mantener snapshots anteriores de JoinRoam como histórico; este checkpoint es la fuente de decisión vigente para la transición.
-- Revisar marca/domino antes de inversión relevante en materiales impresos.
-- Mantener estados DESIGNED / IMPLEMENTED / VERIFIED separados.
+## 11. Estados y controles
+- **DECIDED:** nombre visible = Ánrrua.
+- **DESIGNED:** dirección visual, paleta, arquitectura, landing, formularios y plan de marketing.
+- **TO VERIFY:** especie del insecto, disponibilidad INAPI/NIC y formularios.
+- **NOT IMPLEMENTED:** sitio publicado, formularios conectados, dominio comprado, solicitud INAPI, reservas/pagos, nueva sociedad o cambios tributarios.
+- No modificar `main`, hacer merge ni desplegar producción sin aprobación explícita.
+- Conservar checkpoints anteriores de JoinRoam como histórico.
 - **NO EVIDENCE = NO CLAIM.**
